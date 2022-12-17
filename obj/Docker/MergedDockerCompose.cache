@@ -1,0 +1,16 @@
+name: dockercompose9796765690416062222
+services:
+  helloworld:
+    build:
+      context: C:\Users\sonalikaroy\source\repos\helloworld
+      dockerfile: Dockerfile
+    image: helloworld
+    networks:
+      default: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  default:
+    name: dockercompose9796765690416062222_default

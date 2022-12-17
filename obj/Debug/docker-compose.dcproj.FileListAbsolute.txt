@@ -1,0 +1,10 @@
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\helloworld.dll
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\System.Web.Optimization.dll
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\helloworld.pdb
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\helloworld.dll.config
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\System.Web.Optimization.xml
+C:\Users\sonalikaroy\source\repos\helloworld\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\sonalikaroy\source\repos\helloworld\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\sonalikaroy\source\repos\helloworld\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\sonalikaroy\source\repos\helloworld\obj\Debug\docker-compose.dcproj.CopyComplete
